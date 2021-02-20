@@ -1,3 +1,8 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/CHEM371-LW-QuantumChemistryLab/tree/master/HEAD?filepath=index.ipynb) (NoteBook)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yychuang/CHEM371-LW-QuantumChemistryLab/tree/master/HEAD?urlpath=lab) (LAB)
+
+
 # CHEM371-LW Quantum Chemistry Lab
 
 Welcome to the github repository of CHEM371-LW Quantum Chemistry Lab!
