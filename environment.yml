@@ -20,3 +20,4 @@ dependencies:
     - matplotlib
     - pythreejs
     - fortecubeview
+    - py3Dmol
